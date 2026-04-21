@@ -58,3 +58,5 @@ I specialize in bridging the gap between digital code and physical machines. Fro
 <p align="center">
   <i>See the complete <b>Habanero Cheeseburger</b> archive of drones, software, e-bikes, and apps at <b><a href="https://imnotabot.dev">imnotabot.dev</a></b></i>
 </p>
+
+> Note: Public GitHub stats represent a subset of experimental and hardware-facing projects; most recent production work is private.
