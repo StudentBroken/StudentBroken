@@ -11,7 +11,7 @@
 ---
 
 ### 🔧 The Workbench
-I specialize in bridging the gap between digital code and physical machines. From reverse-engineering proprietary hardware to designing custom PCB-integrated 3D prints, I build things that move, fly, or automate the world around me.
+I specialize in bridging the gap between digital code and physical machines. From reverse-engineering proprietary hardware to designing custom PCB and 3D prints, I build things that move, fly, or automate the world around me.
 
 #### **Core Hardware Competencies:**
 *   **Embedded Systems:** ESP32 / Arduino / Raspberry Pi (C++, Python, MicroPython).
@@ -22,14 +22,14 @@ I specialize in bridging the gap between digital code and physical machines. Fro
 ---
 
 ### 🚀 Featured Hardware Projects
-*   **Custom HUD Smart Glasses** 🥽: Reverse-engineered Solos smart glasses. Designed a new 3D-printed ergonomic frame and custom software bridge.
+*   **Custom HUD Smart Glasses** 🥽: Reverse-engineered Solos smart glasses. Designed a new 3D-printed ergonomic frame and custom flutter app as a bridge.
 *   **6th Gen E-Bike** 🚲: Iterative design of a custom electric bicycle featuring ESP32-monitored charging and integrated high-wattage power delivery.
 *   **V-Bot Plotter** 🦀: A portable, dual-stepper V-plotter "crab" that draws on vertical surfaces via a custom web-interface controller.
 *   **Weaponized FPV Drones** 🚁: 3D-printed airframes equipped with custom payloads including water sprayers and gel-blaster mechanisms.
 
 ---
 
-### 🛠️ Hardware & Software Stack
+### 🛠️ Hardware & Software
 | Category | Tools & Tech |
 | :--- | :--- |
 | **Embedded** | `C++`, `C`, `Arduino`, `ESP-IDF`, `Klipper`, `MQTT` |
@@ -39,11 +39,26 @@ I specialize in bridging the gap between digital code and physical machines. Fro
 
 ---
 
-### 📊 Engineering Activity
+### 📊 Stats
 <p align="center">
   <!-- Top Languages Widget -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudentBroken&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
   <br>
   <!-- Main Stats Widget -->
   <img src="https://github-readme-stats.vercel.app/api?username=StudentBroken&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+</p>
+
+---
+
+###  Full Project Archive
+I document every step of my builds—from initial CAD sketches to final code deployments—on my personal portfolio.
+
+<p align="center">
+  <a href="https://imnotabot.dev">
+    <img src="https://img.shields.io/badge/VIEW_BUILD_LOGS-imnotabot.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <i>See the complete <b>Habanero Cheeseburger</b> archive of drones, e-bikes, and apps at <b><a href="https://imnotabot.dev">imnotabot.dev</a></b></i>
 </p>
