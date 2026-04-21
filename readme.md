@@ -22,10 +22,9 @@ I specialize in bridging the gap between digital code and physical machines. Fro
 ---
 
 ### 🚀 Featured Hardware Projects
-*   **Custom HUD Smart Glasses** 🥽: Reverse-engineered Solos smart glasses. Designed a new 3D-printed ergonomic frame and custom flutter app as a bridge.
+*   **Reverse engineered HUD Smart Glasses** 🥽: Reverse-engineered Solos smart glasses. Designed a new 3D-printed ergonomic frame and custom flutter app as a bridge.
 *   **6th Gen E-Bike** 🚲: Iterative design of a custom electric bicycle featuring ESP32-monitored charging and integrated high-wattage power delivery.
 *   **V-Bot Plotter** 🦀: A portable, dual-stepper V-plotter "crab" that draws on vertical surfaces via a custom web-interface controller.
-*   **Weaponized FPV Drones** 🚁: 3D-printed airframes equipped with custom payloads including water sprayers and gel-blaster mechanisms.
 
 ---
 
