@@ -33,9 +33,9 @@ I specialize in bridging the gap between digital code and physical machines. Fro
 | Category | Tools & Tech |
 | :--- | :--- |
 | **Embedded** | `C++`, `C`, `Arduino`, `ESP-IDF`, `Klipper`, `MQTT` |
-| **Design/CAD** | `Onshape`, `Fusion360`, `Cura`, `PrusaSlicer` |
+| **Design/CAD** | `Onshape`, `tinkercad`, `easyeda`, `PrusaSlicer` |
 | **Web/App** | `React`, `TypeScript`, `Node.js`, `TailwindCSS` |
-| **Infrastructure** | `Linux`, `Raspberry Pi OS`, `Git`, `Docker` |
+| **Infrastructure** | `Linux`, `Mac os`, `Git`, `Docker` |
 
 ---
 
@@ -46,10 +46,4 @@ I specialize in bridging the gap between digital code and physical machines. Fro
   <br>
   <!-- Main Stats Widget -->
   <img src="https://github-readme-stats.vercel.app/api?username=StudentBroken&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
-> **Note:** If stats are not loading, it's likely a temporary GitHub API delay. Check out my live build log at **[imnotabot.dev](https://imnotabot.dev)** to see what I'm currently soldering.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/StudentBroken/StudentBroken/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
