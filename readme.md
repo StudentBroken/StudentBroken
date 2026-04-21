@@ -1,4 +1,4 @@
-<h1 align="center">StudentBroken // Michael Xu 🛠️</h1>
+<h1 align="center">StudentBroken // Michael 🛠️</h1>
 <p align="center"><b>Hardware Hacker • Embedded Systems • FPV & Robotics • Full-Stack Developer</b></p>
 
 <p align="center">
