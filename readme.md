@@ -9,6 +9,8 @@
 </p>
 
 ---
+### Who am I?
+A professional master's degree in computer science or an unemployed kid? or something in between? Im 17 hating school trying to learn quickly using AI.
 
 ### 🔧 The Workbench
 I specialize in bridging the gap between digital code and physical machines. From reverse-engineering proprietary hardware to designing custom PCB and 3D prints, I build things that move, fly, or automate the world around me.
