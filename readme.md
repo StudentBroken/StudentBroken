@@ -51,14 +51,9 @@ I specialize in bridging the gap between digital code and physical machines. Fro
 ---
 
 ###  Full Project Archive
-I document every step of my builds—from initial CAD sketches to final code deployments—on my personal portfolio.
+I document many of my builds on my personal portfolio.
+
 
 <p align="center">
-  <a href="https://imnotabot.dev">
-    <img src="https://img.shields.io/badge/VIEW_BUILD_LOGS-imnotabot.dev-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>See the complete <b>Habanero Cheeseburger</b> archive of drones, e-bikes, and apps at <b><a href="https://imnotabot.dev">imnotabot.dev</a></b></i>
+  <i>See the complete <b>Habanero Cheeseburger</b> archive of drones, software, e-bikes, and apps at <b><a href="https://imnotabot.dev">imnotabot.dev</a></b></i>
 </p>
