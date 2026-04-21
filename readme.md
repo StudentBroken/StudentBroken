@@ -27,8 +27,8 @@ Whether it's deploying cross-platform apps, reverse-engineering smart glasses, p
 
 ### ⚡ Quick Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radium&hide_border=true" alt="Michael's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radium&hide_border=true" alt="Michael's GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudentBroken&layout=compact&theme=radium&hide_border=true" alt="Michael's Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=StudentBroken&show_icons=true&theme=radium&hide_border=true" alt="Michael's GitHub Stats" width="48%" />
 </p>
 
 ---
