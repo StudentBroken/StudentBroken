@@ -43,10 +43,10 @@ I specialize in bridging the gap between digital code and physical machines. Fro
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-lilac-theta-97.vercel.app/api/top-langs/?username=StudentBroken&layout=compact&theme=dark&hide_border=true&hide=java" alt="Top Langs" />
+        <img src="https://github-readme-stats-flax-psi-96.vercel.app/api/top-langs/?username=StudentBroken&layout=compact&theme=dark&hide_border=true&hide=java" alt="Top Langs" />
       </td>
       <td>
-        <img src="https://github-readme-stats-lilac-theta-97.vercel.app/api?username=StudentBroken&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-flax-psi-96.vercel.app/api?username=StudentBroken&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
