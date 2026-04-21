@@ -40,19 +40,19 @@ I specialize in bridging the gap between digital code and physical machines. Fro
 ---
 
 ### 📊 Stats
-<p align="center">
-  <!-- Top Languages Widget -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudentBroken&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
-  <br>
-  <!-- Main Stats Widget -->
-  <img src="https://github-readme-stats.vercel.app/api?username=StudentBroken&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-</p>
-
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=StudentBroken&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=StudentBroken&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
+</div>
 ---
-
-###  Full Project Archive
-I document many of my builds on my personal portfolio.
-
 
 <p align="center">
   <i>See the complete <b>Habanero Cheeseburger</b> archive of drones, software, e-bikes, and apps at <b><a href="https://imnotabot.dev">imnotabot.dev</a></b></i>
