@@ -48,7 +48,7 @@ I specialize in bridging the gap between digital code and physical machines. Fro
         <img src="https://github-readme-stats-flax-psi-96.vercel.app/api/top-langs/?username=StudentBroken&cache_seconds=0&layout=compact&theme=dark&hide_border=true&hide=java" alt="Top Langs" />
       </td>
       <td>
-        <img src="https://github-readme-stats-flax-psi-96.vercel.app/api?username=StudentBroken&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-flax-psi-96.vercel.app/api?username=StudentBroken&cache_seconds=0&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
