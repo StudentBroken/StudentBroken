@@ -54,7 +54,6 @@ I specialize in bridging the gap between digital code and physical machines. Fro
   </table>
 </div>
 
-> Note: Public GitHub stats represent a subset of experimental projects; most recent production work is private.
 
 ---
 
