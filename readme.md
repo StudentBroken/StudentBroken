@@ -45,7 +45,7 @@ I specialize in bridging the gap between digital code and physical machines. Fro
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats-flax-psi-96.vercel.app/api/top-langs/?username=StudentBroken&cache_seconds=0&layout=compact&theme=dark&hide_border=true&hide=java&exclude_repo=student-broken-old,120f6e5b4ea32f65bda68452fcfaaef06b0136e1d0e4a6f60bc3771fa0936dd6,studentv3,student_testing,repgate,RepGate_App" alt="Top Langs" />
+        <img src="https://github-readme-stats-flax-psi-96.vercel.app/api/top-langs/?username=StudentBroken&cache_seconds=0&layout=compact&theme=dark&hide_border=true&hide=java&exclude_repo=student-broken-old,120f6e5b4ea32f65bda68452fcfaaef06b0136e1d0e4a6f60bc3771fa0936dd6,studentv3,student_testing,repgate,RepGate_App,studentbroken.github.io" alt="Top Langs" />
       </td>
       <td>
         <img src="https://github-readme-stats-flax-psi-96.vercel.app/api?username=StudentBroken&cache_seconds=0&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
